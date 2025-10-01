@@ -1,3 +1,7 @@
+build
+*.pcap
+*.pcapng
+
 # Prerequisites
 *.d
 
